@@ -2,7 +2,7 @@
 
 Export and Import Your Current Aragon Organization To Matic For Cheaper Voting
 
-![Matic + Aragon Logos](assets/images/maticandaragon.jpg)
+![Matic + Aragon Logos](assets/images/maticandaragon1.jpg)
 
 Codenamed: ArgoMatic
 
