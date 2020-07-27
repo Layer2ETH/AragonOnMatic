@@ -3,6 +3,11 @@
 
 
 /**
+Contract based on Aragon submission to Mainnet with potentially small changes to support Matic integration
+Aragon: GNU Affero General Public License v3.0
+*/
+
+/**
  *Submitted for verification at Etherscan.io on 2019-09-06
 */
 

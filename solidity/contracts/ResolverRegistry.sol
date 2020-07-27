@@ -1,5 +1,12 @@
 //Matic: https://explorer.matic.network/address/0x3653CF1dCFD3d5B6DD85606901f839F0Ad484371/transactions
 
+
+/**
+Contract based on Aragon submission to Mainnet with potentially small changes to support Matic integration
+Aragon: GNU Affero General Public License v3.0
+*/
+
+
 pragma solidity ^0.4.0;
 
 contract AbstractENS {

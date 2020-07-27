@@ -1,5 +1,12 @@
 //Matic: https://explorer.matic.network/address/0x1C5e8082c08A346e171Fb06BbD167D97A12de09b/transactions
 
+
+/**
+Contract based on Aragon submission to Mainnet with potentially small changes to support Matic integration
+Aragon: GNU Affero General Public License v3.0
+*/
+
+
 pragma solidity ^0.4.24;
 // File: @aragon/apps-shared-minime/contracts/ITokenController.sol
 /// @dev The token controller contract must implement these functions

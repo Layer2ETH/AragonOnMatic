@@ -1,7 +1,8 @@
 //Matic: https://explorer.matic.network/address/0xfb28f74560a9a121A7469b23e1C5540a6D52d47b/transactions
 
 /**
- *Submitted for verification at Etherscan.io on 2018-10-28
+Contract based on Aragon submission to Mainnet with potentially small changes to support Matic integration
+Aragon: GNU Affero General Public License v3.0
 */
 
 pragma solidity 0.4.24;

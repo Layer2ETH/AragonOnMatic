@@ -1,5 +1,10 @@
 //Matic Address: https://explorer.matic.network/address/0xbE5bC19764b155937192Da0e1a27aA68526a5c3e/transactions
 
+/**
+Contract based on Aragon submission to Mainnet with potentially small changes to support Matic integration
+Aragon: GNU Affero General Public License v3.0
+*/
+
 /*
 
 _DAOFACTORY:

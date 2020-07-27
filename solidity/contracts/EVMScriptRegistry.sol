@@ -3,6 +3,11 @@
 //matci: https://explorer.matic.network/address/0x98E6c74762c52fB712025215f8794C36E61F148c/transactions
 
 /**
+Contract based on Aragon submission to Mainnet with potentially small changes to support Matic integration
+Aragon: GNU Affero General Public License v3.0
+*/
+
+/**
  *Submitted for verification at Etherscan.io on 2019-09-06
 */
 
