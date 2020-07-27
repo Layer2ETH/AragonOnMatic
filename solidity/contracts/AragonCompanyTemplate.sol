@@ -1,7 +1,9 @@
+//Matic Address: https://explorer.matic.network/address/0xbE5bC19764b155937192Da0e1a27aA68526a5c3e/transactions
+
 /*
-Deployed with: 
+
 _DAOFACTORY:
-0xD259079087b504aab3D5cFde3dce6fcF52E03C3D
+0x8313E1A093141e2A772AC78013034a9fe2Eee7fe
 _ENS:
 0xFc824b6b54AbFE22C2b5cfB7c7e326f9a4b37701
 _MINIMEFACTORY:
@@ -10,7 +12,30 @@ _ARAGONID:
 0xb0d9917Ff904EC4cf4631B49218DFcA3DD43EC65
 
 
+Run new token and instance with:
+
+_tokenName:
+"Example"
+_tokenSymbol:
+"EXE"
+_id:
+"Example"
+_holders:
+["0xD5f833d0324488Dc499c69046A94a39e0ED2E162"]
+_stakes:
+["1000000000000000000000000"]
+_votingSettings:
+["500000000000000000","150000000000000000","86400"]
+_financePeriod:
+"0"
+_useAgentAsVault:
+false
+
+
+
 */
+
+
 
 // File: @aragon/apps-shared-minime/contracts/ITokenController.sol
 
