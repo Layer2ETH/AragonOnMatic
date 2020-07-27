@@ -29,9 +29,3 @@ Matic Docs: [https://docs.matic.network/docs/develop/getting-started](https://do
 ## How To Use
 
 This solution helps you moe your current Aragon org from Mainnet to Matic, and interface with the same Aragaon DAO UI your org already knows and loves, but with cheaper transaction costs. $2 to vote is a bit high right? That's what it is these days, and it's just not realistic.
-
-
-## Importing
-
-
-## Exporting
