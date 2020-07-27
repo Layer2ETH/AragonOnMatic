@@ -11,7 +11,7 @@ Today, Ethereum gas prices make it very difficult and expensive to interact with
 
 ## Developer Quick Start
 
-As Matic put's it: "If you're an Ethereum Developer, you're already a Matic developer. All the tools you're familiar with are supported on Matic out of the box: Truffle, Remix, Web3js. Switch over to Matic's RPC and get started!"
+As Matic puts it: "If you're an Ethereum Developer, you're already a Matic developer. All the tools you're familiar with are supported on Matic out of the box: Truffle, Remix, Web3js. Switch over to Matic's RPC and get started!"
 
 Matic Docs: [https://docs.matic.network/docs/develop/getting-started](https://docs.matic.network/docs/develop/getting-started)
 
