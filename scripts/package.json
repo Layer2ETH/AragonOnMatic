@@ -1,0 +1,44 @@
+{
+  "name": "AragonOnMatic",
+  "version": "0.3.0",
+  "description": "AragonOnMatic",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "request": "^2.81.0",
+    "ethereumjs-wallet": "",
+    "bitcoinjs-lib": "",
+    "mngen": "",
+    "bitcore-lib": "",
+    "bitcore-mnemonic": "",
+    "poliscore-mnemonic": "",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "cors": "",
+    "bip39": "",
+    "crypto": "",
+    "3box": "",
+    "create-web3-provider": "",
+    "random-words": ""
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
