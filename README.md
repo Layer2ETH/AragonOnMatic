@@ -2,6 +2,8 @@
 
 Export and Import Your Current Aragon Organization To Matic For Cheaper Voting
 
+HackMD Link: https://hackmd.io/@blU6cns0RpmVLGig0cj9nw/Hyv6P2jxv
+
 [Website](https://www.aragomatic.com)
 
 ![Matic + Aragon Logos](assets/images/maticandaragon1.jpg)
