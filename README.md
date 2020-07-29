@@ -32,12 +32,15 @@ Matic Docs: [https://docs.matic.network/docs/develop/getting-started](https://do
 
 This solution helps you move your current Aragon org from Mainnet to Matic, and interface with the same Aragaon DAO UI your org already knows and loves, but with cheaper transaction costs. $2 to vote is a bit high right? That's what it is these days, and it's just not realistic.
 
-In this current version, you can deploy a DAO using the Aragon company template or interface with the existing DAO factory contract on Matic to produce a DAO and token. Additionally, you can add those token to the Matic Wallet once they are deployed and move the governance coins between chains.
+In this current version, you can deploy a DAO using the Aragon company template or interface with the existing DAO factory contract on Matic ([Mainnet address](https://explorer.matic.network/address/0xbE5bC19764b155937192Da0e1a27aA68526a5c3e/)) to produce a DAO and token. Additionally, you can add those token to the Matic Wallet once they are deployed and move the governance coins between chains.
 
 
-#TODO
+## TODO
 
 -State Mirroring
+
 -Automatic Monetary Transfer Option on Mainnet upon vote on Sidechain
+
 -Better tests
+
 -Matic-Specific UI for on-off ramping
