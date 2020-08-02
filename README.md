@@ -44,3 +44,5 @@ In this current version, you can deploy a DAO using the Aragon company template 
 -Better tests
 
 -Matic-Specific UI for on-off ramping
+
+-Pay with ETH feature that automatically loads Matic ETH to each original DAO member to pay for future transaction fees for ease of use among non-blockchain enthusiasts (gather more widespread adoption)
